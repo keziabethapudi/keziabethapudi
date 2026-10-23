@@ -1,6 +1,6 @@
 # Hi, I'm Kezia Bethapudi! 👋
 
-I am a *Computer Science and Engineering* student (2021-2025) at DVR & Dr. HS MIC College of Technology. I am currently specializing in *Data Science with AI and seeking opportunities in **Business Intelligence (BI), **Data Warehousing (DW), or **Software Engineering*.
+I am a Computer Science and Engineering student (2021-2025) at DVR & Dr. HS MIC College of Technology. I am currently specializing in Data Science with AI and seeking opportunities in Business Intelligence (BI), Data Warehousing (DW),Data Analytics and Data Science.
 
 ---
 
